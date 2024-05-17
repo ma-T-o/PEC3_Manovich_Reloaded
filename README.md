@@ -47,7 +47,7 @@ Los E-Sports, también conocidos como deportes electrónicos, representan una in
 
 - Modelos de negocio: Los E-Sports combinan diferentes modelos de negocio. Desde patrocinios tradicionales en el ámbito deportivo, como la monetización de las transmisiones en vivo, las suscripciones, hasta la venta de productos digitales y físicos.
 
-Cultura y Identidad: Los E-Sports han creado una cultura propia que hibrida aspectos de la cultura de los videojuegos con la del deporte tradicional. Esto genera nuevas formas de identidad y comunidad entre los aficionados y los jugadores.
+- Cultura y Identidad: Los E-Sports han creado una cultura propia que hibrida aspectos de la cultura de los videojuegos con la del deporte tradicional. Esto genera nuevas formas de identidad y comunidad entre los aficionados y los jugadores.
 
 
 

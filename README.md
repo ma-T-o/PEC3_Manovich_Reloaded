@@ -84,14 +84,14 @@ ___
 ### Referencias y Webgrafía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Wikipedia. (n.d.). **Choose Your Own Adventure**. Retrieved from [https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure)
-* Wikipedia. (n.d.). **Black Mirror: Bandersnatch**. Retrieved from [https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
-* Thier, D. (2018, December 29). **Black Mirror's 'Bandersnatch': Every Path And How To Watch Every Ending**. Forbes. Retrieved from [https://www.forbes.com/sites/davidthier/2018/12/29/black-mirrors-bandersnatch-every-path-and-how-to-watch-every-ending/](https://www.forbes.com/sites/davidthier/2018/12/29/black-mirrors-bandersnatch-every-path-and-how-to-watch-every-ending/)
-* E-Sports. (n.d.). **La industria de los esports**. Retrieved from [https://esports.as.com/industria/esports_0_1117988194.html](https://esports.as.com/industria/esports_0_1117988194.html)
-* Topend Sports. (n.d.). **A-Z of Sports**. Retrieved from [https://www.topendsports.com/sport/sports-all-e.htm](https://www.topendsports.com/sport/sports-all-e.htm)
-* Wikipedia. (n.d.). **Esports**. Retrieved from [https://en.wikipedia.org/wiki/Esports](https://en.wikipedia.org/wiki/Esports)
-* Euronews. (2022, June 23). **Esports: Could it become more popular than the real thing?**. Retrieved from [https://www.euronews.com/2022/06/23/esports-could-it-become-more-popular-than-the-real-thing](https://www.euronews.com/2022/06/23/esports-could-it-become-more-popular-than-the-real-thing)
-* E-Sports. (n.d.). **Pro View de LoL vuelve a la LCS**. Retrieved from [https://esports.as.com/league-of-legends/Pro-View-LoL-vuelve-LCS_0_1470452949.html](https://esports.as.com/league-of-legends/Pro-View-LoL-vuelve-LCS_0_1470452949.html)
+* Wikipedia. (2024). **Choose Your Own Adventure**. [https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure)
+* Wikipedia. (2024). **Black Mirror: Bandersnatch**. [https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
+* Thier, D. (2018). **Black Mirror's 'Bandersnatch': Every Path And How To Watch Every Ending**. Forbes. [https://www.forbes.com/sites/davidthier/2018/12/29/black-mirrors-bandersnatch-every-path-and-how-to-watch-every-ending/](https://www.forbes.com/sites/davidthier/2018/12/29/black-mirrors-bandersnatch-every-path-and-how-to-watch-every-ending/)
+* Movistar E-Sports. (2018). **La industria de los esports**. [https://esports.as.com/industria/esports_0_1117988194.html](https://esports.as.com/industria/esports_0_1117988194.html)
+* Topend Sports. (2024). **A-Z of Sports**. [https://www.topendsports.com/sport/sports-all-e.htm](https://www.topendsports.com/sport/sports-all-e.htm)
+* Wikipedia. (2024). **Esports**. [https://en.wikipedia.org/wiki/Esports](https://en.wikipedia.org/wiki/Esports)
+* Euronews. (2022). **Esports: Could it become more popular than the real thing?**. [https://www.euronews.com/2022/06/23/esports-could-it-become-more-popular-than-the-real-thing](https://www.euronews.com/2022/06/23/esports-could-it-become-more-popular-than-the-real-thing)
+* Movistar E-Sports. (2021). **Pro View de LoL vuelve a la LCS**. [https://esports.as.com/league-of-legends/Pro-View-LoL-vuelve-LCS_0_1470452949.html](https://esports.as.com/league-of-legends/Pro-View-LoL-vuelve-LCS_0_1470452949.html)
 
 ----
 

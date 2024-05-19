@@ -8,7 +8,7 @@ Autor: Mateo Berger
 
 Fecha: 05/2024
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![e-Sports]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://esports.as.com/2018/03/16/reportajes/esports_1117998205_60112_1440x600.jpg)) 
 
 
 

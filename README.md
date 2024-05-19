@@ -16,8 +16,9 @@ En este ensayo, voya a analizar dos ejemplos contemporáneos de hibridación de 
 Ambos casos muestran cómo la hibridación puede transformar sus respectivos campos y ofrecer nuevas formas de interacción y representación que nos muestra Manovich.
 
 
-![e-Sports](https://esports.as.com/2018/03/16/reportajes/esports_1117998205_60112_1440x600.jpg) 
 # Re-descubriendo la hibridacion: Los E-Sports
+
+![e-Sports](https://esports.as.com/2018/03/16/reportajes/esports_1117998205_60112_1440x600.jpg) 
 
 ## Contexto y Descripción
 
@@ -48,8 +49,9 @@ Los E-Sports, también conocidos como deportes electrónicos, representan una in
 - Cultura y Identidad: Los E-Sports han creado una cultura propia que hibrida aspectos de la cultura de los videojuegos con la del deporte tradicional. Esto genera nuevas formas de identidad y comunidad entre los aficionados y los jugadores.
 
 
-![Bandersnatch](https://imgs.search.brave.com/TfBP2YySsShq6AZF3j-Be-JDk_s6w_8k9mNG3Qpp6Vk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1qTTVNemd6/TWpNM09GNUJNbDVC/YW5CblhrRnRaVGd3/TXpRMk16UXdOek1A/LmpwZw) 
 # Re-descubriendo la hibridacion: Bandersnatch de Netflix
+
+![Bandersnatch](https://imgs.search.brave.com/TfBP2YySsShq6AZF3j-Be-JDk_s6w_8k9mNG3Qpp6Vk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1qTTVNemd6/TWpNM09GNUJNbDVC/YW5CblhrRnRaVGd3/TXpRMk16UXdOek1A/LmpwZw) 
 
 ## Contexto y Descripción
 "Bandersnatch" es una película interactiva de Netflix, parte de la serie "Black Mirror", que permite a los espectadores tomar decisiones que afectan el curso de la historia. Esta experiencia de visualización interactiva fusiona elementos del cine tradicional con la interactividad de los videojuegos y con los libros "*escoje tu propia aventura*", creando una narrativa no lineal que puede ser moldeada por el espectador.

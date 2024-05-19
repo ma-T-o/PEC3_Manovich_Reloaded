@@ -51,15 +51,47 @@ Los E-Sports, también conocidos como deportes electrónicos, representan una in
 
 
 
-## Re-descubriendo la hibridacion: Caso 2
+# Re-descubriendo la hibridacion: Bandersnatch de Netflix
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Contexto y Descripción
+"Bandersnatch" es una película interactiva de Netflix, parte de la serie "Black Mirror", que permite a los espectadores tomar decisiones que afectan el curso de la historia. Esta experiencia de visualización interactiva fusiona elementos del cine tradicional con la interactividad de los videojuegos y con los libros "*escoje tu propia aventura*", creando una narrativa no lineal que puede ser moldeada por el espectador.
+En total Bandersnatch son 150 minutos de contenido único, los cuales, según el orden en el que el público decida visualizarlo todo, pueden reducirse a 40 minutos (para el camino mas corto) o alargarse a más de 150 minutos (para algunos de los caminos más largos).
 
+## Hibridación en Bandersnatch
 
-### Referencias y Bibliografía
+### 1. Narrativa y Tecnología:
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+- Narrativa interactiva: A diferencia de las películas tradicionales, "Bandersnatch" permite a los espectadores tomar decisiones en puntos clave de la trama, lo que lleva a múltiples finales. Esta interactividad es habitual en los videojuegos, pero aquí se integra perfectamente con el formato cinematográfico.
 
+- Tecnología de transmisión: Netflix usa tecnología avanzada de transmisión para permitir una experiencia de visualizacion sin interrupciones, donde las elecciones del espectador se procesan en tiempo real, cambiando instantáneamente el curso de la narrativa.
+
+### 2. Interacción y Experiencia:
+
+- Interactividad: El espectador se convierte en un participante activo en la historia, e incluso en un personaje/ente de la historia (debido a que el personaje principal acaba dandose cuenta que estamos allí, controlandolo), similar a la experiencia de jugar un videojuego. Esta hibridación crea una nueva forma de entretenimiento donde la línea entre el espectador y el jugador se difumina.
+
+- Multiplataforma: "Bandersnatch" se puede ver en todos los dispositivos a los cuales se les pueda instalar Netflix, desde televisores inteligentes hasta teléfonos móviles, adaptando la experiencia interactiva a diferentes plataformas y permitiendo una accesibilidad y personalización que no es posible en el cine tradicional.
+
+### 3. Impacto en la Cultura y la Industria:
+
+- Innovación en la narrativa: "Bandersnatch" representa un avance en la narrativa cinematográfica, mostrando el potencial de las películas interactivas para ofrecer experiencias más inmersivas y personalizadas.
+
+- Modelos de negocio: Este tipo de contenido interactivo abre nuevas oportunidades para Netflix y otras plataformas de streaming en términos de atraer y retener suscriptores, así como explorar nuevas formas de monetización.
+
+___
+Para terminar, podemos decir que los E-Sports y "Bandersnatch" son ejemplos claros de hibridación de medios según la perspectiva de Lev Manovich. Ambos ilustran cómo la combinación de tecnologías y medios distintos puede crear experiencias nuevas y coherentes que transforman la forma en que, nosotros, los usuarios interactuamos con el entretenimiento digital. Por un lado los E-Sports combinan el deporte tradicional con la tecnología digital y la cultura de los videojuegos, por otro lado "Bandersnatch" fusiona la narrativa cinematográfica con la interactividad de los videojuegos, ofreciendo una experiencia de visualización única. Estos ejemplos demuestran que la hibridación de medios es una fuerza poderosa en la evolución de la cultura digital contemporánea.
+___
+
+### Referencias y Webgrafía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Wikipedia. (n.d.). **Choose Your Own Adventure**. Retrieved from [https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure)
+* Wikipedia. (n.d.). **Black Mirror: Bandersnatch**. Retrieved from [https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
+* Thier, D. (2018, December 29). **Black Mirror's 'Bandersnatch': Every Path And How To Watch Every Ending**. Forbes. Retrieved from [https://www.forbes.com/sites/davidthier/2018/12/29/black-mirrors-bandersnatch-every-path-and-how-to-watch-every-ending/](https://www.forbes.com/sites/davidthier/2018/12/29/black-mirrors-bandersnatch-every-path-and-how-to-watch-every-ending/)
+* E-Sports. (n.d.). **La industria de los esports**. Retrieved from [https://esports.as.com/industria/esports_0_1117988194.html](https://esports.as.com/industria/esports_0_1117988194.html)
+* Topend Sports. (n.d.). **A-Z of Sports**. Retrieved from [https://www.topendsports.com/sport/sports-all-e.htm](https://www.topendsports.com/sport/sports-all-e.htm)
+* Wikipedia. (n.d.). **Esports**. Retrieved from [https://en.wikipedia.org/wiki/Esports](https://en.wikipedia.org/wiki/Esports)
+* Euronews. (2022, June 23). **Esports: Could it become more popular than the real thing?**. Retrieved from [https://www.euronews.com/2022/06/23/esports-could-it-become-more-popular-than-the-real-thing](https://www.euronews.com/2022/06/23/esports-could-it-become-more-popular-than-the-real-thing)
+* E-Sports. (n.d.). **Pro View de LoL vuelve a la LCS**. Retrieved from [https://esports.as.com/league-of-legends/Pro-View-LoL-vuelve-LCS_0_1470452949.html](https://esports.as.com/league-of-legends/Pro-View-LoL-vuelve-LCS_0_1470452949.html)
 
 ----
 

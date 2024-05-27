@@ -24,29 +24,27 @@ Ambos casos muestran cómo la hibridación puede transformar sus respectivos cam
 
 Los E-Sports, también conocidos como deportes electrónicos, representan una industria emergente que ha crecido significativamente desde los años 2000 con la aparición de títulos como StarCraft y Warcraft. En los E-Sports, los videojuegos competitivos se juegan a nivel profesional y se transmiten a audiencias de todo el mundo. Esta novedosa forma de entretenimiento amalgama elementos de los deportes tradicionales con tecnologías digitales avanzadas, integrando diversos medios y plataformas (twitch, youtube, etc.).
 
-## Hibridación en los E-Sports
+En los E-sports la hibridación se puede analizar partiendo de diversos puntos:
 
-### 1. Tecnología y Medios Digitales:
+#### Tecnología y Medios Digitales
 
-- Videojuegos: Constituyen la base primordial de los E-Sports y pueden considerarse en sí mismos una forma de hibridación, debido a la amplia gama de medios que contienen (gráficos 3D, narrativa, música, programación, diseño, etc.).
+Los videojuegos, como base de los E-Sports, son de por sí una manifestación de hibridación. Combinan gráficos 3D, narrativa, música, programación y diseño, creando experiencias multimedia ricas y complejas. Sin embargo, el fenómeno de los E-Sports va mucho más allá de los propios juegos. Las transmisiones en vivo a través de plataformas como Twitch, YouTube y Kick permiten a los espectadores de todo el mundo ver torneos y ligas en tiempo real, fusionando la experiencia de los deportes tradicionales con la interactividad propia de los medios digitales. Los espectadores pueden participar en chats en vivo, lo que añade una capa de interacción que no se encuentra en las transmisiones deportivas convencionales.
 
-- Transmisión en vivo: Plataformas como Twitch, YouTube y Kick permiten la transmisión en vivo de torneos y ligas de E-Sports a nivel mundial. Esto fusiona la experiencia de ver deportes tradicionales con la interactividad de los medios digitales. El público puede interactuar en tiempo real a través de chats en vivo, participando activamente, algo no presente en transmisiones deportivas convencionales.
+Además de las transmisiones en vivo, los aficionados a los E-Sports tienen acceso a una amplia variedad de videos y recapitulativos de competiciones pasadas. Esta disponibilidad de contenido bajo demanda es similar a la de los deportes tradicionales, pero con el valor añadido de la interactividad y la comunidad en línea. Los eventos de E-Sports se producen con un nivel de calidad comparable al de los eventos deportivos tradicionales, utilizando cámaras, gráficos en pantalla, comentaristas y análisis en tiempo real para ofrecer una experiencia de alta calidad.
 
-- Videos y Recapitulativos: Al igual que las transmisiones en vivo, el público puede acceder a una variedad de resúmenes y videos recapitulativos de competiciones pasadas, similar a los partidos y competiciones deportivas habituales.
+#### Interacción y Participación
 
-- Producción televisiva: Los eventos de E-Sports se realizan con la misma calidad que los eventos deportivos tradicionales. Se utilizan cámaras, gráficos en pantalla, comentaristas y análisis en tiempo real para brindar una experiencia de alta calidad.
+Uno de los aspectos más destacados de los E-Sports es el alto nivel de interactividad que ofrecen. A diferencia de los deportes tradicionales, donde los espectadores son solo observadores, en los E-Sports pueden influir en el contenido en tiempo real. Participan en encuestas y competiciones paralelas, y disfrutan de diferentes ángulos de cámara y estadísticas en vivo a través de sistemas como Pro View en League of Legends. Esta interactividad transforma la experiencia de visualización en algo dinámico y participativo.
 
-### 2. Interacción y Participación:
+Los E-Sports también fomentan comunidades en línea vibrantes. Jugadores y espectadores se reúnen en foros, redes sociales y plataformas de transmisión para interactuar y compartir su pasión por los juegos. Estas comunidades globales crean un entorno social único que trasciende las barreras geográficas, permitiendo a personas de todo el mundo conectarse y colaborar.
 
-- Interactividad: Una de las principales ventajas de los E-Sports es el nivel de interactividad que ofrecen en comparación con los deportes tradicionales. Los espectadores pueden influir en el contenido en tiempo real, participar en encuestas y competiciones paralelas, y disfrutar de diferentes ángulos de cámara y estadísticas en vivo con sistemas como Pro View (en League of Legends).
+#### Economía y Cultura
 
-- Comunidad en línea: Los E-Sports fomentan comunidades en línea donde jugadores y espectadores pueden interactuar y jugar juntos. Estas comunidades globales se reúnen en foros, redes sociales y plataformas de transmisión, creando un entorno social único.
+La economía de los E-Sports es otra área donde se manifiesta la hibridación. Los E-Sports combinan diferentes modelos de negocio, desde patrocinios tradicionales hasta la monetización de las transmisiones en vivo, suscripciones y la venta de productos digitales y físicos. Este enfoque multifacético permite a los organizadores y jugadores generar ingresos de diversas fuentes, lo que a su vez impulsa el crecimiento y la profesionalización de la industria.
 
-### 3. Economía y Cultura:
+En cuanto a la cultura, los E-Sports han desarrollado una identidad propia que mezcla elementos de la cultura de los videojuegos con la de los deportes tradicionales. Esta combinación ha dado lugar a nuevas formas de identidad y comunidad entre aficionados y jugadores. Los E-Sports no solo son una forma de entretenimiento, sino también una plataforma para la expresión personal y la conexión social, lo que los convierte en un fenómeno cultural significativo.
 
-- Modelos de negocio: Los E-Sports combinan diferentes modelos de negocio, desde patrocinios tradicionales hasta la monetización de las transmisiones en vivo, suscripciones y la venta de productos digitales y físicos.
-
-- Cultura e Identidad: Los E-Sports han generado una cultura propia que mezcla aspectos de la cultura de los videojuegos con la de los deportes tradicionales, creando nuevas formas de identidad y comunidad entre aficionados y jugadores.
+En resumen, los E-Sports son un claro ejemplo de hibridación de medios según la perspectiva de Manovich. Integran diversas tecnologías, fomentan nuevas formas de interacción y participación, y combinan distintos modelos económicos y culturales para generar una experiencia completamente nueva y coherente para jugadores y espectadores. Esta hibridación no solo transforma la manera en que consumimos entretenimiento, sino también la forma en que nos conectamos y participamos en comunidades globales.
 
 
 # Re-descubriendo la hibridacion: Bandersnatch de Netflix
